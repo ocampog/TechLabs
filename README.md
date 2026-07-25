@@ -8,7 +8,7 @@ I build hands-on IT labs to simulate real-world help desk and system administrat
 
 
 
-  - [Creating Organizational Units](https://github.com/)
+  - [Creating Organizational Units](https://github.com/ocampog/ADcreateOU/tree/main)
 
 
 <h2>👨‍💻 Microsoft 365 Administration Labs:</h2>

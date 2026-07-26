@@ -9,7 +9,7 @@ I build hands-on IT labs to simulate real-world help desk and system administrat
 
 
   - [Creating Organizational Units](https://github.com/ocampog/ADcreateOU/tree/main)
-
+  - [Creating a user account in Active Directory](https://github.com/ocampog/userAD)
 
 <h2>👨‍💻 Microsoft 365 Administration Labs:</h2>
 
